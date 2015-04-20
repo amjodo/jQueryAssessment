@@ -1,5 +1,5 @@
 $(document).ready(function(){
-	$('div').click(function(){
+	$('.dan').click(function(){
 		alert("Hey you clicked on me.");
 	});
 });
